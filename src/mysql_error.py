@@ -12,9 +12,8 @@ def run():
 
         _ = (
             initialize
-            | "Get Table Schema" >> beam.Map(print)
+            | "Print collection" >> beam.Map(print)
         )
-
 
 if __name__ == '__main__':
     run()
