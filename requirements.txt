@@ -1,0 +1,14 @@
+apache-beam
+google-cloud
+google-cloud-bigquery
+google-cloud-secret-manager
+pandas
+pyarrow
+mysql
+mysql-connector
+
+# apache-beam[gcp] parts individually as needed
+google-apitools
+cachetools
+google-auth
+google-auth-httplib2
